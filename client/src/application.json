@@ -1,0 +1,9 @@
+{
+  "name": "changepassword",
+  "description": "test",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "96b8809a",
+  "clientVersion": "6.0.22-dev",
+  "theme": "Anchor",
+  "creatorId": "admin"
+}
