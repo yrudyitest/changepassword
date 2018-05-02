@@ -1,6 +1,6 @@
 {
   "name": "changepassword",
-  "version": "6.0.22",
+  "version": "6.0.23-dev",
   "private": true,
   "description": "PowWow transformation",
   "main": "start.js",
@@ -8,10 +8,10 @@
     "start": "nodemon start.js | bunyan -o short --color"
   },
   "dependencies": {
-    "smartux-connect": "/home/yrudyi/powwow/PowwowDesigner_6/dataStore/smartux-connect/6.0.22"
+    "smartux-connect": "/home/yrudyi/powwow/PowwowStudio_6/dataStore/smartux-connect/6.0.23-dev"
   },
   "engines": {
     "node": "8.x.x"
   },
-  "customConnectorsFolder": "/home/yrudyi/powwow/PowwowDesigner_6/dataStore/custom-connectors"
+  "customConnectorsFolder": "/home/yrudyi/powwow/PowwowStudio_6/dataStore/custom-connectors"
 }
