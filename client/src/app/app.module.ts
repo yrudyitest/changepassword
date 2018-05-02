@@ -8,7 +8,7 @@ import { Hooks } from './app.hooks';
 
 @NgModule({
   bootstrap: [IonicApp],
-  declarations: [ClientApp].concat(Screens.declarations),
+  declarations: [ClientApp, ...Screens.declarations],
   entryComponents: Screens.declarations,
   imports: [
     IonicModule.forRoot(ClientApp, config.ionic),
