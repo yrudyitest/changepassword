@@ -1,8 +1,4 @@
-// Load the SmartUX session runtime.
-let session = require('smartux-connect');
-
-// API Connectors
-
-// Web Connectors
-
+const session = require('smartux-connect');
+session.transform.changepassword = session.loadTransform('changepassword');
+require('./client');
 session.start();
