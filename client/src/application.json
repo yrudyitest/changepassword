@@ -3,7 +3,7 @@
   "description": "test",
   "defaultLayout": "PhonePortrait",
   "previewToken": "96b8809a",
-  "clientVersion": "6.0.23-dev",
+  "clientVersion": "6.0.23",
   "theme": "Anchor",
   "creatorId": "admin",
   "id": "changepassword",
@@ -13,5 +13,9 @@
   "pathToRepo": "/home/yrudyi/powwow/PowwowStudio_6/dataStore/users/admin/changepassword",
   "githubRepo": "https://github.com/yrudyitest/changepassword",
   "creatorName": "PowWow Admin",
-  "explorations": []
+  "explorations": [
+    "cb",
+    "changepassword",
+    "dfbndg"
+  ]
 }

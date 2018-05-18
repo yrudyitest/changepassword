@@ -8,10 +8,6 @@
     "default": true
   },
   {
-    "id": "cordova-plugin-console",
-    "default": true
-  },
-  {
     "id": "cordova-plugin-device",
     "default": true
   },
