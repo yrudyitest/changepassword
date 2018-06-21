@@ -3,5 +3,11 @@
     "type": "object",
     "properties": {},
     "id": "menu"
+  },
+  "sdfsdg": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {},
+    "id": "sdfsdg"
   }
 }

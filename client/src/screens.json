@@ -1,5 +1,13 @@
 {
   "id": "__BASE__",
   "name": "changepassword",
-  "screens": []
+  "screens": [
+    {
+      "id": "sdfsdg",
+      "name": "sdfsdg",
+      "sourceScreenId": "blank",
+      "sourceAppId": "default"
+    }
+  ],
+  "startScreen": "sdfsdg"
 }
