@@ -4,7 +4,7 @@
   "defaultLayout": "PhonePortrait",
   "previewToken": "96b8809a",
   "clientVersion": "6.0.23-dev",
-  "theme": "Anchor",
+  "theme": "MyTheme",
   "creatorId": "admin",
   "id": "changepassword",
   "isBuiltInTemplate": false,
