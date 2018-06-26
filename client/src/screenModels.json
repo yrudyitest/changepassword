@@ -7,7 +7,11 @@
   "sdfsdg": {
     "type": "object",
     "comment": "Blank",
-    "properties": {},
+    "properties": {
+      "aaaaaaa": {
+        "type": "string"
+      }
+    },
     "id": "sdfsdg"
   }
 }
