@@ -3,7 +3,7 @@ import { MenuComponent } from './menu/menu';
 import { sdfsdg_PhonePortrait } from '../pages/sdfsdg/PhonePortrait/sdfsdg';
 export class Screens {
   static declarations = [
-    MenuComponent,xsdbgdf
+    MenuComponent,
     sdfsdg_PhonePortrait
   ];
   static mapping = {
