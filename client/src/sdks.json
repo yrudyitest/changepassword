@@ -20,12 +20,10 @@
     "default": true
   },
   {
-    "id": "cordova-plugin-file",
-    "default": true
+    "id": "cordova-plugin-file"
   },
   {
-    "id": "cordova-plugin-file-transfer",
-    "default": true
+    "id": "cordova-plugin-file-transfer"
   },
   {
     "id": "cordova-plugin-powwow",
