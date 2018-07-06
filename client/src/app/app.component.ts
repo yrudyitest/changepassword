@@ -13,6 +13,7 @@ export class ClientApp extends Screen {
   constructor(@Inject(Bootstrap) bootstrap: TBootstrap, hooks: Hooks) {
     super();
     bootstrap(hooks, Screens.mapping, mocks);
+    let a = 1;
   }
 
 }
