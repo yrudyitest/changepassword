@@ -11,9 +11,7 @@ import { Bootstrap, TBootstrap } from 'smartux-client';
 export class ClientApp extends Screen {
 
   constructor(@Inject(Bootstrap) bootstrap: TBootstrap, hooks: Hooks) {
-      super();
-
-      let a = 1;
+    super();
     bootstrap(hooks, Screens.mapping, mocks);
   }
 
