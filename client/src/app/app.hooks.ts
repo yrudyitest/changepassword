@@ -8,7 +8,8 @@ export class Hooks extends AppHooks {
    * Initial parameters to send to the server.
    */
   async getServerInitParams(): Promise<any> {
-    return {};
+      return {};
+      let a = 1;
   }
 
   /**
