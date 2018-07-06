@@ -9,7 +9,6 @@ export class Hooks extends AppHooks {
    */
   async getServerInitParams(): Promise<any> {
       return {};
-      let a = 1;
   }
 
   /**
