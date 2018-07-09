@@ -1,11 +1,11 @@
 {
   "type": "object",
   "properties": {
-    "asasf": {
-      "type": "string"
+    "sdgdf456": {
+      "type": "identifier"
     },
-    "sdgdf": {
-      "type": "string"
+    "asasf456": {
+      "type": "identifier"
     }
   },
   "id": "menu",
