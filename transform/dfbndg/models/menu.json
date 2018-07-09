@@ -1,6 +1,13 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "asasf": {
+      "type": "string"
+    },
+    "sdgdf": {
+      "type": "string"
+    }
+  },
   "id": "menu",
   "connect": []
 }
