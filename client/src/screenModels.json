@@ -2,8 +2,7 @@
   "menu": {
     "type": "object",
     "properties": {},
-    "id": "menu",
-    "sourcePath": "menu"
+    "id": "menu"
   },
   "sdfsdg": {
     "type": "object",
@@ -13,7 +12,6 @@
         "type": "string"
       }
     },
-    "id": "sdfsdg",
-    "sourcePath": "sdfsdg"
+    "id": "sdfsdg"
   }
 }
