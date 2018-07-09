@@ -1,7 +1,10 @@
 {
   "type": "object",
   "properties": {
-    "assasa": {
+    "assasa235r": {
+      "type": "string"
+    },
+    "sgdre": {
       "type": "string"
     }
   },
