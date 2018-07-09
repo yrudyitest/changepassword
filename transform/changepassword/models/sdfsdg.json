@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "comment": "Blank",
+  "properties": {
+    "fbdfb": {
+      "type": "string"
+    }
+  },
+  "id": "sdfsdg",
+  "connect": []
+}
